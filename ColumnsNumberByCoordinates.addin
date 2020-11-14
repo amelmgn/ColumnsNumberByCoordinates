@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">    
+    <Name>ColumnsNumberByCoordinates</Name>
+    <Assembly>
+      C:\Users\Amel\source\repos\ColumnsNumberByCoordinates\bin\Debug\ColumnsNumberByCoordinates.dll
+    </Assembly>
+    <ClientId>d6f27e7e-ec95-4f63-8bde-dd9616e655fd</ClientId>
+    <FullClassName>ColumnsNumberByCoordinates.App</FullClassName>
+    <VendorId>Alex Mel</VendorId>
+    <VendorDescription>amel@list.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
